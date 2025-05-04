@@ -1,0 +1,19 @@
+ncelab: 15.20-s035: (c) Copyright 1995-2017 Cadence Design Systems, Inc.
+TOOL:	ncelab	15.20-s035: Started on Oct 22, 2023 at 22:15:05 EDT
+ncelab
+    -messages
+    -access rwc
+    -cdslib /afs/umbc.edu/users/j/k/jkielty1/home/cmpe-640/cadence/cds.lib
+    -hdlvar /afs/umbc.edu/users/j/k/jkielty1/home/cmpe-640/cadence/hdl.var
+    Dlatch_test
+
+ncelab: *W,ARCMRA: Elaborating the VHDL.DLATCH_TEST:TEST, MRA (most recently analyzed) architecture.
+	Elaborating the design hierarchy:
+	Building instance specific data structures.
+	Design hierarchy summary:
+		     Instances  Unique
+		Components:  3       2
+		Processes:   3       3
+		Signals:     5       5
+	Writing initial simulation snapshot: VHDL.DLATCH_TEST:TEST
+TOOL:	ncelab	15.20-s035: Exiting on Oct 22, 2023 at 22:15:05 EDT  (total: 00:00:00)

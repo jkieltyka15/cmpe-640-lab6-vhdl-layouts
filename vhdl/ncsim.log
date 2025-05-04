@@ -1,0 +1,14 @@
+ncsim: 15.20-s035: (c) Copyright 1995-2017 Cadence Design Systems, Inc.
+TOOL:	ncsim	15.20-s035: Started on Oct 22, 2023 at 22:18:28 EDT
+ncsim
+    -input ncsim.run
+    -messages
+    -cdslib /afs/umbc.edu/users/j/k/jkielty1/home/cmpe-640/cadence/cds.lib
+    -hdlvar /afs/umbc.edu/users/j/k/jkielty1/home/cmpe-640/cadence/hdl.var
+    Dlatch_test
+
+Loading snapshot vhdl.dlatch_test:test .................... Done
+ncsim> run 80 ns
+Ran until 80 NS + 0
+ncsim> exit
+TOOL:	ncsim	15.20-s035: Exiting on Oct 22, 2023 at 22:18:28 EDT  (total: 00:00:00)

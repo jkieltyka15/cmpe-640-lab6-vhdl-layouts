@@ -1,0 +1,24 @@
+ncvhdl: 15.20-s035: (c) Copyright 1995-2017 Cadence Design Systems, Inc.
+TOOL:	ncvhdl	15.20-s035: Started on Oct 22, 2023 at 22:14:53 EDT
+ncvhdl
+    -messages
+    -linedebug
+    -cdslib /afs/umbc.edu/users/j/k/jkielty1/home/cmpe-640/cadence/cds.lib
+    -hdlvar /afs/umbc.edu/users/j/k/jkielty1/home/cmpe-640/cadence/hdl.var
+    -smartorder
+    Dlatch_test.vhd
+    Dlatch.vhd
+
+Dlatch.vhd:
+	errors: 0, warnings: 0
+Dlatch_test.vhd:
+	errors: 0, warnings: 0
+VHDL.DLATCH (entity):
+	streams: 5, words: 62
+VHDL.DLATCH:STRUCTURAL (architecture):
+	streams: 1, words: 99
+VHDL.DLATCH_TEST (entity):
+	streams: 1, words: 38
+VHDL.DLATCH_TEST:TEST (architecture):
+	streams: 2, words: 1087
+TOOL:	ncvhdl	15.20-s035: Exiting on Oct 22, 2023 at 22:14:53 EDT  (total: 00:00:00)
